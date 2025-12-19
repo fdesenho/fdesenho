@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Com mais de **13 anos de experiência** no desenvolvimento de software, sou um Engenheiro focado na construção de arquiteturas escaláveis e robustas. Tenho um forte background acadêmico (Mestrado em Engenharia de Software e Segurança Pública) e prático em **Microsserviços Java** e **Gestão de Dados**.
+Com mais de **13 anos de experiência** no desenvolvimento de software, sou um Engenheiro focado na construção de arquiteturas escaláveis e robustas. Tenho um forte background acadêmico (Pos graduado em Engenharia de Software, Segurança Pública,Tecnologias da Informação e Comunicação aplicadas à Segurança Pública, Graduado em Sistemas de informacao.....) e prático em **Microsserviços Java** e **Gestão de Dados**.
 
 Atualmente, estou expandindo minhas fronteiras tecnológicas explorando **Edge AI** e **Visão Computacional** aplicada à segurança pública, buscando unir performance de backend com inteligência na borda.
 
