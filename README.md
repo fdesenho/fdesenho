@@ -23,7 +23,7 @@ Atualmente, estou expandindo minhas fronteiras tecnológicas explorando **Edge A
 
 Estou desenvolvendo o **SafeVision**, um projeto que resolve problemas de latência em vigilância policial.
 
-> **[🔎 Ver Repositório SafeVision](https://github.com/fdesenho/safevision)**  
+> **[🔎 Ver Repositório SafeVision](https://github.com/fdesenho/safevision-modular)**  
 > *Um sistema híbrido de vigilância para Câmeras Corporais (Body-Worn Cameras) utilizando Edge AI para detecção em tempo real e arquitetura Cloud para gestão.*
 
 ---
