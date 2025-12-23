@@ -47,8 +47,8 @@ Estou desenvolvendo o **SafeVision**, um projeto que resolve problemas de latên
 
 <div align="center">
 
-[![Fabio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fdesenho&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=ccc&icon_color=d63384)](https://github.com/anuraghazra/github-readme-stats)
+[![Fabio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fdesenho&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=ccc&icon_color=d63384)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdesenho&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=ccc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdesenho&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=ccc)]()
 
 </div>
