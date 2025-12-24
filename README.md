@@ -13,18 +13,21 @@
 
 ## 👨‍💻 Sobre Mim
 
-Com mais de **15 anos de experiência** no desenvolvimento de software, sou um Engenheiro focado na construção de arquiteturas escaláveis e robustas. Tenho um forte background acadêmico (Pos graduado em Engenharia de Software, Segurança Pública,Tecnologias da Informação e Comunicação aplicadas à Segurança Pública, Graduado em Sistemas de informacao.....) e prático em **Microsserviços Java** e **Gestão de Dados**.
+Com mais de **15 anos de experiência** no desenvolvimento de software, sou um Engenheiro focado na construção de arquiteturas escaláveis e robustas. 
 
-Atualmente, estou expandindo minhas fronteiras tecnológicas explorando **Edge AI** e **Visão Computacional** aplicada à segurança pública, buscando unir performance de backend com inteligência na borda.
+Possuo um forte background acadêmico sendo **Pós-graduado em Engenharia de Software** e especialista em **Segurança Pública e TICs**. Sou também **Bacharel em Sistemas de Informação**, aliando teoria sólida à prática em **Microsserviços Java** e **Gestão de Dados**.
+
+Atualmente, estou expandindo minhas fronteiras tecnológicas explorando **Edge AI** e **Visão Computacional** aplicadas à segurança pública, buscando unir a performance do backend com a inteligência na borda.
 
 ---
 
 ## 🚀 Destaque: SafeVision
 
-Estou desenvolvendo o **SafeVision**, um projeto que resolve problemas de latência em vigilância policial.
+Estou liderando o desenvolvimento do **SafeVision**, um projeto inovador que visa mitigar a latência em vigilância policial crítica.
 
-> **[🔎 Ver Repositório SafeVision](https://github.com/fdesenho/safevision-modular)**  
-> *Um sistema híbrido de vigilância para Câmeras Corporais (Body-Worn Cameras) utilizando Edge AI para detecção em tempo real e arquitetura Cloud para gestão.*
+> **[🔎 Acessar Código Fonte (Repo)](https://github.com/fdesenho/safevision-modular)** • **[📅 Ver Roadmap & Sprint (Kanban)](https://github.com/users/fdesenho/projects/1)**
+>
+> *Um sistema híbrido de vigilância para Câmeras Corporais (Body-Worn Cameras) utilizando Edge AI para detecção em tempo real e arquitetura Cloud para gestão centralizada.*
 
 ---
 
@@ -47,8 +50,8 @@ Estou desenvolvendo o **SafeVision**, um projeto que resolve problemas de latên
 
 <div align="center">
 
-[![Fabio's GitHub Stats]()]()
+[![Fabio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fdesenho&show_icons=true&theme=dracula&hide_border=true)](https://github.com/fdesenho)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdesenho&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=ccc)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdesenho&layout=compact&theme=dracula&hide_border=true&title_color=fff&text_color=ccc)](https://github.com/fdesenho)
 
 </div>
